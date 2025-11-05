@@ -1,0 +1,12 @@
+# General Settings
+assets:
+  - BTC
+  - ETH
+  - SOL
+
+# Strategy Configurations
+strategies:
+  sma_strategy:
+    enabled: true
+    sma_short: 10
+    sma_long: 20
